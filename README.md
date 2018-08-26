@@ -4,6 +4,6 @@ Login Form -Validate with PHP
 <h3>Default Username & Password</h3>
 <p>Username: Shajib</p>
 <P>Username: password</p>
-<P style="color:green;">Login with given Info</p>
+<P style="color:#008000;">Login with given Info</p>
 <br>
 <img src="login-form-preview.png" alt="login-form">
